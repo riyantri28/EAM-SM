@@ -1,0 +1,32 @@
+[
+    {
+        "tanggal": "2025-05-21 22:07",
+        "admin": "Kepala Bengkel",
+        "aksi": "tambah aset",
+        "item": "LAS "
+    },
+    {
+        "tanggal": "2025-05-21 22:06",
+        "admin": "Kepala Bengkel",
+        "aksi": "tambah aset",
+        "item": "MILLING"
+    },
+    {
+        "tanggal": "2025-05-21 21:23",
+        "admin": "Kepala Bengkel",
+        "aksi": "tambah aset",
+        "item": "BUBUT"
+    },
+    {
+        "tanggal": "2025-05-21 21:05",
+        "admin": "ok",
+        "aksi": "tambah aset",
+        "item": "ss"
+    },
+    {
+        "tanggal": "2025-05-21 21:04",
+        "admin": "ok",
+        "aksi": "tambah aset",
+        "item": "BUBUT"
+    }
+]

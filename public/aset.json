@@ -1,0 +1,29 @@
+[
+    {
+        "nama": "BUBUT",
+        "jenis": "TSINFA",
+        "produsen": "CHINA",
+        "harga": "100000",
+        "tanggal_beli": "2025-05-22",
+        "garansi": "2",
+        "lokasi": "bengkel fabrikasi"
+    },
+    {
+        "nama": "MILLING",
+        "jenis": "Pao Fong Horizontal Milling Machine PF-6H",
+        "produsen": "Pao Fang",
+        "harga": "1000000",
+        "tanggal_beli": "2025-05-22",
+        "garansi": "12",
+        "lokasi": "bengkel fabrikasi"
+    },
+    {
+        "nama": "LAS ",
+        "jenis": "SMAW ",
+        "produsen": "CNR",
+        "harga": "1000000",
+        "tanggal_beli": "2025-05-22",
+        "garansi": "1",
+        "lokasi": "bengkel fabrikasi"
+    }
+]
